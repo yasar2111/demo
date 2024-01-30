@@ -1,4 +1,5 @@
 #!/bin/bash
+ls
 set -eo
 mkdir -p node_exporter
 cd node_exporter || exit 1
